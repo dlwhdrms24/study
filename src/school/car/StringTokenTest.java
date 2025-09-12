@@ -1,4 +1,4 @@
-package car;
+package school.car;
 
 import java.util.StringTokenizer;
 import java.util.Date;
